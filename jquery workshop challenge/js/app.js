@@ -1,5 +1,5 @@
 // 1. Show the hidden restaurant review, or use an animation method to reveal it. 
-
+$('.review').show();
 // 2. Set the title of the hidden restaurant review to a different name -- whatever you'd like.  
 
 // 3. Change the text of the hidden restaurant review. The review should contain HTML, such as a strong tag or a span element. 
